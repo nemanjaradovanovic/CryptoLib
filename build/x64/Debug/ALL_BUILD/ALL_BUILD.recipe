@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Desktop\Korisnik\Projekti\CryptoLib\build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Desktop\Korisnik\Projekti\CryptoLib\build\Debug\benchmark_rsa.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Desktop\Korisnik\Projekti\CryptoLib\build\Debug\cli_tool.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Desktop\Korisnik\Projekti\CryptoLib\build\Debug\example_encrypt.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Desktop\Korisnik\Projekti\CryptoLib\build\Debug\rsa_demo.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Desktop\Korisnik\Projekti\CryptoLib\build\Debug\test_rsa.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Desktop\Korisnik\Projekti\CryptoLib\build\Debug\test_signature.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\hp\Desktop\Korisnik\Projekti\CryptoLib\build\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

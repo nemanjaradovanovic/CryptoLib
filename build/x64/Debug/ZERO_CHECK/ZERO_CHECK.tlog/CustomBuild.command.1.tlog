@@ -1,0 +1,10 @@
+^C:\USERS\HP\DESKTOP\KORISNIK\PROJEKTI\CRYPTOLIB\BUILD\CMAKEFILES\9A32AB484FE04DC484871FAED13BB898\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/hp/Desktop/Korisnik/Projekti/CryptoLib -BC:/Users/hp/Desktop/Korisnik/Projekti/CryptoLib/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/hp/Desktop/Korisnik/Projekti/CryptoLib/build/CryptoLib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
